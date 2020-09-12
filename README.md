@@ -38,7 +38,7 @@ This Project is a Rails app built using Ruby on Rails, to display the creation a
 # Authors
 👤 **Ara Camarillo**
 
-- Github: [aracelicaes](https://github.com/jessicafarias)
+- Github: [aracelicaes](https://github.com/aracelicaes)
 - Twitter: [@Ara_CE_93](https://twitter.com/Ara_CE_93)
 - Linkedin: [Ara Camarillo](www.linkedin.com/in/ara-camarillo)
 
